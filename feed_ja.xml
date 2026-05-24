@@ -16,9 +16,9 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://sparrowcomp22-droid.github.io/animavox-podcast/feed_ja.xml" rel="self" type="application/rss+xml"
       xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <itunes:image href="https://drive.google.com/uc?id=1CXfK-c3lK04llL-0B-yZg9o9VPLuQ99w&amp;export=download"/>
+    <itunes:image href="https://sparrowcomp22-droid.github.io/animavox-podcast/thumbnail_ja.jpg"/>
     <image>
-      <url>https://drive.google.com/uc?id=1CXfK-c3lK04llL-0B-yZg9o9VPLuQ99w&amp;export=download</url>
+      <url>https://sparrowcomp22-droid.github.io/animavox-podcast/thumbnail_ja.jpg</url>
       <title>RADIO NOVOSTALÍK by AnimaVox</title>
       <link>https://sparrowcomp22-droid.github.io/animavox-podcast/</link>
     </image>
