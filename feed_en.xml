@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/modules/content/">
+  <channel>
+    <title>RADIO NOVOSTALÍK by AnimaVox</title>
+    <link>https://sparrowcomp22-droid.github.io/animavox-podcast/</link>
+    <description>AI-powered Anime &amp; Manga news radio by AnimaVox</description>
+    <language>en</language>
+    <itunes:author>AnimaVox</itunes:author>
+    <itunes:owner>
+      <itunes:name>AnimaVox</itunes:name>
+      <itunes:email>sparrowcomp22@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Arts"/>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://sparrowcomp22-droid.github.io/animavox-podcast/feed_en.xml" rel="self" type="application/rss+xml"
+      xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <itunes:image href="https://drive.google.com/uc?id=1CXfK-c3lK04llL-0B-yZg9o9VPLuQ99w&amp;export=download"/>
+    <image>
+      <url>https://drive.google.com/uc?id=1CXfK-c3lK04llL-0B-yZg9o9VPLuQ99w&amp;export=download</url>
+      <title>RADIO NOVOSTALÍK by AnimaVox</title>
+      <link>https://sparrowcomp22-droid.github.io/animavox-podcast/</link>
+    </image>
+    <item>
+      <title>RADIO NOVOSTALÍK Ep.001 (EN)</title>
+      <description>RADIO NOVOSTALÍK Ep.001</description>
+      <enclosure url="https://drive.google.com/uc?id=154JhPkbN17fsbFg9cGwGmcecOZUlZMeJ&amp;export=download" length="29916935" type="audio/mpeg"/>
+      <pubDate>Sun, 24 May 2026 05:20:16 -0000</pubDate>
+      <itunes:duration>00:20:46</itunes:duration>
+      <itunes:language>en</itunes:language>
+      <guid isPermaLink="false">https://drive.google.com/uc?id=154JhPkbN17fsbFg9cGwGmcecOZUlZMeJ&amp;export=download</guid>
+    </item>
+  </channel>
+</rss>
