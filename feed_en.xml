@@ -16,12 +16,21 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://sparrowcomp22-droid.github.io/animavox-podcast/feed_en.xml" rel="self" type="application/rss+xml"
       xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <itunes:image href="https://sparrowcomp22-droid.github.io/animavox-podcast/thumbnail_en.jpg"/>
+    <itunes:image href="https://sparrowcomp22-droid.github.io/animavox-podcast/thumbnail_en_v2.jpg"/>
     <image>
-      <url>https://sparrowcomp22-droid.github.io/animavox-podcast/thumbnail_en.jpg</url>
+      <url>https://sparrowcomp22-droid.github.io/animavox-podcast/thumbnail_en_v2.jpg</url>
       <title>RADIO NOVOSTALÍK by AnimaVox</title>
       <link>https://sparrowcomp22-droid.github.io/animavox-podcast/</link>
     </image>
+    <item>
+      <title>RADIO NOVOSTALÍK Ep.004 (EN)</title>
+      <description>RADIO NOVOSTALÍK Ep.004</description>
+      <enclosure url="https://drive.google.com/uc?id=1gDPWE5mXTtl9TndBaOooago-0UXKobbW&amp;export=download" length="32176422" type="audio/mpeg"/>
+      <pubDate>Fri, 29 May 2026 02:54:45 -0000</pubDate>
+      <itunes:duration>00:22:20</itunes:duration>
+      <itunes:language>en</itunes:language>
+      <guid isPermaLink="false">https://drive.google.com/uc?id=1gDPWE5mXTtl9TndBaOooago-0UXKobbW&amp;export=download</guid>
+    </item>
     <item>
       <title>RADIO NOVOSTALÍK EP.003 [English]</title>
       <description>RADIO NOVOSTALÍK Ep.003 - Anime &amp; Manga News</description>
