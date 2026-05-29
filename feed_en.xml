@@ -22,14 +22,24 @@
       <title>RADIO NOVOSTALÍK by AnimaVox</title>
       <link>https://sparrowcomp22-droid.github.io/animavox-podcast/</link>
     </image>
+
+    <item>
+      <title>RADIO NOVOSTALÍK Ep.005 (EN)</title>
+      <description>RADIO NOVOSTALÍK Ep.005</description>
+      <enclosure url="https://archive.org/download/ep-005-20260529-en/EP005_20260529_en.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 28 May 2026 20:18:57 -0000</pubDate>
+      <itunes:duration>00:16:34</itunes:duration>
+      <itunes:language>en</itunes:language>
+      <guid isPermaLink="false">https://archive.org/download/ep-005-20260529-en/EP005_20260529_en.mp3</guid>
+    </item>
     <item>
       <title>RADIO NOVOSTALÍK Ep.004 (EN)</title>
       <description>RADIO NOVOSTALÍK Ep.004</description>
-      <enclosure url="https://drive.google.com/uc?id=1gDPWE5mXTtl9TndBaOooago-0UXKobbW&amp;export=download" length="32176422" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/ep-004-20260529-en/EP004_20260529_en.mp3" length="32176422" type="audio/mpeg"/>
       <pubDate>Fri, 29 May 2026 02:54:45 -0000</pubDate>
       <itunes:duration>00:22:20</itunes:duration>
       <itunes:language>en</itunes:language>
-      <guid isPermaLink="false">https://drive.google.com/uc?id=1gDPWE5mXTtl9TndBaOooago-0UXKobbW&amp;export=download</guid>
+      <guid isPermaLink="false">https://archive.org/download/ep-004-20260529-en/EP004_20260529_en.mp3</guid>
     </item>
     <item>
       <title>RADIO NOVOSTALÍK EP.003 [English]</title>
