@@ -22,7 +22,15 @@
       <title>RADIO NOVOSTALÍK by AnimaVox</title>
       <link>https://sparrowcomp22-droid.github.io/animavox-podcast/</link>
     </image>
-
+    <item>
+      <title>RADIO NOVOSTALÍK Ep.006 | 2026-06-01 [AI Podcast / EN]</title>
+      <description>AI-powered Anime &amp; Manga news radio by AnimaVox</description>
+      <enclosure url="https://ia902906.us.archive.org/34/items/ep-006-20260601-en/EP006_20260601_en.mp3" length="31316262" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Jun 2026 05:33:39 -0000</pubDate>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:language>en</itunes:language>
+      <guid isPermaLink="false">https://ia902906.us.archive.org/34/items/ep-006-20260601-en/EP006_20260601_en.mp3</guid>
+    </item>
     <item>
       <title>RADIO NOVOSTALÍK Ep.005 (EN)</title>
       <description>RADIO NOVOSTALÍK Ep.005</description>
