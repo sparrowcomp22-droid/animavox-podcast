@@ -23,6 +23,15 @@
       <link>https://sparrowcomp22-droid.github.io/animavox-podcast/</link>
     </image>
     <item>
+      <title>RADIO NOVOSTALÍK Ep.009 (EN)</title>
+      <description>RADIO NOVOSTALÍK Ep.009</description>
+      <enclosure url="https://ia601900.us.archive.org/3/items/ep-009-20260609-en/EP009_20260609_en.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jun 2026 20:00:00 -0000</pubDate>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:language>en</itunes:language>
+      <guid isPermaLink="false">https://ia601900.us.archive.org/3/items/ep-009-20260609-en/EP009_20260609_en.mp3</guid>
+    </item>
+    <item>
       <title>RADIO NOVOSTALÍK Ep.007 (EN)</title>
       <description>RADIO NOVOSTALÍK Ep.007 by AnimaVox</description>
       <enclosure url="https://ia600409.us.archive.org/7/items/ep-007-20260603-en/EP007_20260603_en.mp3" length="0" type="audio/mpeg"/>
